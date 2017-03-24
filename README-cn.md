@@ -12,7 +12,7 @@ allprojects {
     }
 }
 dependencies {
-    compile 'com.github.AnthZh:AndroidViewHelper:0.1'
+    compile 'com.github.AnthZh:AndroidViewHelper:0.2'
 }
 ```
 ## 用法
