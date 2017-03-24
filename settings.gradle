@@ -1,0 +1,1 @@
+include ':android-view-helper-sample', ':android-view-helper'
